@@ -4,9 +4,8 @@ SMCRM is a Customer Relationship Management (CRM) application developed using Dj
 
 - **Customer Management:** Easily add, view, and manage customer information.
 - **Task Management:** Streamline tasks and activities for efficient team collaboration.
-- **Customizable:** Tailor the CRM to fit your business needs and processes.
 - **User-friendly Interface:** Intuitive design for a seamless user experience.
-- 
+  
 ## Installation
 
 git clone https://github.com/SaifeddineAlmissaoui/SMCRM.git
