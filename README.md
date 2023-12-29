@@ -9,9 +9,9 @@ SMCRM is a Customer Relationship Management (CRM) application developed using Dj
 
 ## Technologies Used
 
-- **Django:** 
-- **Python:**
-- **MySQL:**
+- **Django** 
+- **Python**
+- **MySQL**
 
 ## Installation
 
