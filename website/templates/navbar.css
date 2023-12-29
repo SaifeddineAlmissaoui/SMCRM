@@ -1,0 +1,13 @@
+/* navbar.css */
+
+.custom-navbar {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav .nav-link {
+  padding: 10px 15px;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+  background-color: #343a40;
+}
